@@ -208,7 +208,7 @@
         <aside class="profile" aria-label="Profile">
           <div class="avatar" aria-hidden="false">
             <!-- EDIT: Replace profile.jpg with your image file in same folder -->
-            <img src=" alt="Praveen — Cybersecurity student"
+            <img src="index.html/praveen.1.jpg" alt="Praveen — Cybersecurity student"
                  onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' width=400 height=400><rect width=\\'100%\\' height=\\'100%\\' fill=\\'%23060d12\\' /><text x=50% y=50% fill=\\'%2300ff88\\' font-size=28 text-anchor=middle dominant-baseline=central font-family=Roboto+Mono>Praveen</text></svg>'">
           </div>
           <div class="badge">B.E. Cybersecurity</div>
@@ -328,47 +328,47 @@
               <div class="cert-actions">
                 <button class="small-btn" data-preview-src="cert1.jpg" aria-label="Open certificate 1">View</button>
                 <!-- Fallback if you prefer opening the uploaded PDF -->
-                <a class="small-btn" href="aeae7ed0-b962-40a2-89d5-94d124cfd238.pdf" target="_blank" rel="noopener">Open PDF</a>
+                <a class="small-btn" href="index.html/IMG-20251103-WA0040.jpg" target="_blank" rel="noopener">Open PDF</a>
               </div>
             </div>
           </div>
 
-          <!-- CERT 2:Uses image (EDIT: replace cert1.jpg with your file) -->
+          <!-- CERT 2:Uses image (EDIT: replace cert2.jpg with your file) -->
           <div class="cert card" tabindex="0">
             <img src="index.html/IMG-20251103-WA0041.jpg" alt="" class="cert-thumb" onerror="this.style.filter='grayscale(1)';this.nextElementSibling.querySelector('.cert-title').textContent='Red Hat Certificate (preview)';">
             <div class="cert-body">
               <div class="cert-title"></div>
               <div class="cert-meta">Praveen V — Issued: October 14, 2025</div>
               <div class="cert-actions">
-                <button class="small-btn" data-preview-src="cert1.jpg" aria-label="Open certificate 1">View</button>
+                <button class="small-btn" data-preview-src="cert2.jpg" aria-label="Open certificate 1">View</button>
                 <!-- Fallback if you prefer opening the uploaded PDF -->
-                <a class="small-btn" href="aeae7ed0-b962-40a2-89d5-94d124cfd238.pdf" target="_blank" rel="noopener">Open PDF</a>
+                <a class="small-btn" href="index.html/IMG-20251103-WA0041.jpg" target="_blank" rel="noopener">Open PDF</a>
               </div>
             </div>
           </div>
-          <!-- CERT 3:Uses image (EDIT: replace cert1.jpg with your file) -->
+          <!-- CERT 3:Uses image (EDIT: replace cert3.jpg with your file) -->
           <div class="cert card" tabindex="0">
             <img src="index.html/IMG-20251103-WA0042.jpg" alt="" class="cert-thumb" onerror="this.style.filter='grayscale(1)';this.nextElementSibling.querySelector('.cert-title').textContent='Red Hat Certificate (preview)';">
             <div class="cert-body">
               <div class="cert-title"></div>
               <div class="cert-meta">Praveen V — Issued: October 14, 2025</div>
               <div class="cert-actions">
-                <button class="small-btn" data-preview-src="cert1.jpg" aria-label="Open certificate 1">View</button>
+                <button class="small-btn" data-preview-src="cert3.jpg" aria-label="Open certificate 1">View</button>
                 <!-- Fallback if you prefer opening the uploaded PDF -->
-                <a class="small-btn" href="aeae7ed0-b962-40a2-89d5-94d124cfd238.pdf" target="_blank" rel="noopener">Open PDF</a>
+                <a class="small-btn" href="index.html/IMG-20251103-WA0042.jpg" target="_blank" rel="noopener">Open PDF</a>
               </div>
             </div>
           </div>
-          <!-- CERT 4:Uses image (EDIT: replace cert1.jpg with your file) -->
+          <!-- CERT 4:Uses image (EDIT: replace cert4.jpg with your file) -->
           <div class="cert card" tabindex="0">
             <img src="index.html/IMG-20251103-WA0043.jpg" alt="" class="cert-thumb" onerror="this.style.filter='grayscale(1)';this.nextElementSibling.querySelector('.cert-title').textContent='Red Hat Certificate (preview)';">
             <div class="cert-body">
               <div class="cert-title"></div>
               <div class="cert-meta">Praveen V — Issued: October 14, 2025</div>
               <div class="cert-actions">
-                <button class="small-btn" data-preview-src="cert1.jpg" aria-label="Open certificate 1">View</button>
+                <button class="small-btn" data-preview-src="cert4.jpg" aria-label="Open certificate 1">View</button>
                 <!-- Fallback if you prefer opening the uploaded PDF -->
-                <a class="small-btn" href="aeae7ed0-b962-40a2-89d5-94d124cfd238.pdf" target="_blank" rel="noopener">Open PDF</a>
+                <a class="small-btn" href="index.html/IMG-20251103-WA0043.jpg" target="_blank" rel="noopener">Open PDF</a>
               </div>
             </div>
           </div>
@@ -556,5 +556,3 @@ modal.addEventListener('keydown', (e)=>{
 </script>
 </body>
 </html>
-
-
